@@ -74,6 +74,7 @@
             lblApellido.Size = new Size(51, 15);
             lblApellido.TabIndex = 5;
             lblApellido.Text = "Apellido";
+            lblApellido.Click += lblApellido_Click;
             // 
             // txtApellido
             // 

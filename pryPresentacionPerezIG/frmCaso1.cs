@@ -24,5 +24,10 @@ namespace pryPresentacionPerezIG
         {
 
         }
+
+        private void lblApellido_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
